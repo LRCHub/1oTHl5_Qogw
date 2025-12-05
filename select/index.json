@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "さよならはエモーション（Qrion Remix）",
+  "base_artist": "サカナクション",
+  "createdAt": "2025-12-05T13:28:25.308217Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "さよならはエモーション(Qrion Remix)",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/01_さよならはエモーション(Qrion_Remix)_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "さよならはエモーション (Qrion Remix)",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_さよならはエモーション_(Qrion_Remix)_サカナクション.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さよならはエモーション",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_さよならはエモーション_サカナクション.txt"
+    }
+  ]
+}
